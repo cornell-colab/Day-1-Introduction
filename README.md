@@ -60,9 +60,11 @@ Interactive Database Projects
 9. Photogrammar (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)
 Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
 
-10. [Voyages: The Trans Atlantic Slave Trade Database] (http://www.slavevoyages.org/)
+10. [Voyages: The Trans Atlantic Slave Trade Database](http://www.slavevoyages.org/)
 David Eltis, Martin Halbert, & Team
+
 See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)
+
 A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.
  
 Interactive Text Analysis Projects
