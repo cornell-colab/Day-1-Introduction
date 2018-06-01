@@ -19,6 +19,8 @@ Choose one or two of the Major Projects listed below, and one or two of the Summ
 * In what ways do find the project successful or unsuccessful?
 * What are your questions?
 
+(We'll continue to refer to the project examples in this list over the next few weeks.)
+
 #### Major Projects
 
 Geospatial Projects
@@ -26,7 +28,7 @@ Geospatial Projects
 1. Renewing Inequality: Urban Renewal, Family Displacement, and Race, 1955-1966
 Brent Cebul, Robert K. Nelson, Justin Madron, and Nathaniel Ayers
 Digital Scholarship Lab at University of Richmond
-(This project is one of several rich projects included in University of Richmond DS Lab’sAmerican Panorama, an Atlas of United States History.)
+(This project is one of several rich projects included in University of Richmond DS Lab’s American Panorama, an Atlas of United States History.)
  
 2. Machines in the Valley: Growth, Conflict, & Environmental Politics in Silicon Valley
 Jason Hepler
@@ -53,12 +55,17 @@ Geospatial / Multimedia Project
 8. Greene Street: A Long History of a Short Block
 William Easterly, Laura Freschi, and Steven Pennings 
  
-A Metadata / Digital Collection Project
+Interactive Database Projects
  
 9. Photogrammar (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)
 Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
+
+10. [Voyages: The Trans Atlantic Slave Trade Database] (http://www.slavevoyages.org/)
+David Eltis, Martin Halbert, & Team
+See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)
+A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.
  
-Text Analysis Projects
+Interactive Text Analysis Projects
  
 10. America’s Public Bible (Bible Quotations in Newspapers Throughout the 19th century)
 Lincoln Mullen
@@ -73,4 +80,4 @@ The Bill Lane Center for the American West, Stanford University
 
 
 
-#### Discussion Post
+### Discussion Post
