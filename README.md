@@ -25,26 +25,23 @@ Choose one or two of the Major Projects listed below, and one or two of the Summ
 
 Geospatial Projects
  
-1. Renewing Inequality: Urban Renewal, Family Displacement, and Race, 1955-1966
-Brent Cebul, Robert K. Nelson, Justin Madron, and Nathaniel Ayers
-Digital Scholarship Lab at University of Richmond
-(This project is one of several rich projects included in University of Richmond DS Lab’s American Panorama, an Atlas of United States History.)
+
  
-2. Machines in the Valley: Growth, Conflict, & Environmental Politics in Silicon Valley
+1. Machines in the Valley: Growth, Conflict, & Environmental Politics in Silicon Valley
 Jason Hepler
  
-3. Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative
+1. Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative
 Vincent Brown
  
-4. ORBIS: The Stanford Geospatial Network Model of the Roman World
+1. ORBIS: The Stanford Geospatial Network Model of the Roman World
 Walter Scheidel & Elijah Meeks
  
-5. Three One-page Data Visualization Projects:
+1. Three One-page Data Visualization Projects:
 Mapping Islamophobia, Caleb Elfenbein and Team
 Mapping the Second Ku Klux Klan, 1915-1940, Virginia Commonwealth University Library
 The Spread of U.S. Slavery, 1790-1860, Lincoln Mullen
  
-6. Mapping Prejudice: Racial Covenants and 20th Century Minneapolis
+1. Mapping Prejudice: Racial Covenants and 20th Century Minneapolis
 Kirsten Delegard and Teams at Augsburg University and University of Minnesota
  
 7. Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in European Periphery
@@ -62,7 +59,7 @@ Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
 
 10. [Voyages: The Trans Atlantic Slave Trade Database](http://www.slavevoyages.org/)
 David Eltis, Martin Halbert, & Team
-See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)
+ See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)
 A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.
  
 Interactive Text Analysis Projects
@@ -77,6 +74,14 @@ The Bill Lane Center for the American West, Stanford University
 [GitHub](http://github.com)
 
 #### Projects by Summer Fellow Alums
+
+[John Mandeville and the Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)
+John Wyatt Greenlee (Medieval Studies)
+
+[Communal Currents: Visualizing Historical Connections](https://communalcurrents.org/)
+by Molly Reed (History)
+
+
 
 
 
