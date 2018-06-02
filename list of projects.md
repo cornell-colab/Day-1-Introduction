@@ -19,7 +19,6 @@ Walter Scheidel & Elijah Meeks
 * [Mapping Prejudice: Racial Covenants and 20th Century Minneapolis](https://www.mappingprejudice.org/)  
 Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 
-1. 
 
 Network Visualization Projects
  
