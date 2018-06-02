@@ -1,9 +1,6 @@
-#### Major Projects
+## Large Team Projects
 
-Geospatial Visualization Projects
- 
-* Machines in the Valley: Growth, Conflict, & Environmental Politics in Silicon Valley
-Jason Hepler
+### Geospatial Visualization Projects
  
 * [Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative](http://revolt.axismaps.com/)  
 Vincent Brown
@@ -12,15 +9,19 @@ Vincent Brown
 Walter Scheidel & Elijah Meeks
  
 * Three One-page Data Visualization Projects:  
-[Mapping Islamophobia](http://mappingislamophobia.org/), Caleb Elfenbein and Team 
+[Mapping Islamophobia](http://mappingislamophobia.org/), Caleb Elfenbein and Team  
 [Mapping the Second Ku Klux Klan, 1915-1940](https://labs.library.vcu.edu/klan/), Virginia Commonwealth University Library  
 [The Spread of U.S. Slavery, 1790-1860](https://lincolnmullen.com/projects/slavery/), Lincoln Mullen
  
 * [Mapping Prejudice: Racial Covenants and 20th Century Minneapolis](https://www.mappingprejudice.org/)  
 Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 
+* [Renewing Inequality: Urban Renewal, Family Displacement, and Race, 1955-1966](https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram)  
+Brent Cebul & Team  
+(This project is one of several rich projects included in University of Richmond DS Lab’s [American Panorama, an Atlas of United States History](https://dsl.richmond.edu/panorama/).)
 
-Network Visualization Projects
+
+### Network Visualization Projects
  
 * [Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in European Periphery](https://mapping-the-enlightenment.org/)  
 Manolis Patinioti, Eirini Goudarouli, & Vassilis Routisis
@@ -28,14 +29,18 @@ Manolis Patinioti, Eirini Goudarouli, & Vassilis Routisis
 * [Linked Jazz](https://linkedjazz.org/)  
 M. Cristina Pattuelli, Matt Miller, & Team
  
-Multimedia Exhibits
+### Multimedia Exhibits and Digital Publishing
  
 * [Greene Street: A Long History of a Short Block](http://www.greenestreet.nyc/)  
-William Easterly, Laura Freschi, and Steven Pennings 
+William Easterly, Laura Freschi, & Steven Pennings 
 
+* [Sound and Documentary in Cardiff and Miller's *Pandemonium*](http://scalar.usc.edu/works/pandemonium/index)  
+Cecilia Wichmann (The project is a digital companion to her master's thesis.)
 
+* [Performing Archive: Curits + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)
+Jacqueline Wernimont & Team
  
-Database-Plus Projects
+### Database-Plus Projects
  
 * [Photogrammar](http://photogrammar.yale.edu/) (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)
 Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
@@ -44,8 +49,11 @@ Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
 David Eltis, Martin Halbert, & Team  
 See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)  
 A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.
+
+* [New York Slavery Records Index](https://nyslavery.commons.gc.cuny.edu/)  
+Ned Benton, Judy-Lynne Peters, & Team
  
-Interactive Text Analysis Projects
+### Interactive Text Analysis Projects
  
 * [America’s Public Bible (Bible Quotations in Newspapers Throughout the 19th century)](http://americaspublicbible.org/)  
 Lincoln Mullen
@@ -54,7 +62,20 @@ Lincoln Mullen
 A Collaboration of The Texas Digital Newspaper Program, University of North Texas &
 The Bill Lane Center for the American West, Stanford University
 
-#### Projects by Summer Fellow Alums
+* [*Vogue* N-gram Search](http://bookworm.library.yale.edu/) & [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
+Lindsay King, Peter Leonard, & Team
+
+### Computational Visual Analysis
+
+* [Library of Congress Colors](https://loc-colors.glitch.me/)  
+Laura Wrubel
+
+* [*Vogue* Covers in Colormetric Space](http://dh.library.yale.edu/projects/vogue/colormetricspace/) and [Averaging Covers in *Vogue*](http://dh.library.yale.edu/projects/vogue/coveraverages/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
+Lindsay King, Peter Leonard, & Team
+
+SelfieCity and the SelfieExploratory (L. Manovich & Team at City Univeristy of New York Graduate Center)
+
+## Projects by Summer Fellow Alums
 
 * [John Mandeville and the Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)  
 John Wyatt Greenlee (Medieval Studies)
