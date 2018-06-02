@@ -2,9 +2,9 @@
 
 ### Before the Session
 
-Choose one or two of the Major Projects listed below, and one or two of the Summer Fellow Alums projects.
+From the [list of projects](https://github.com/cornell-colab/Day-1-Introduction/blob/master/list%20of%20projects), choose one or two of the Major Projects, and one or two of the projects created by the Summer Fellow Alums.
 
-##### For your chosen projects,
+#### For each of your chosen projects,
  
 1. Interact with the site and its tool(s) until you have a good feeling for the project’s scope, goals, and capabilities.
 2. Read any associated “About” information to get a sense of the who the project’s creators are (and how many of them there are), what tools were used in the creation, what its data sources are, and any sources of funding.
@@ -19,8 +19,15 @@ Choose one or two of the Major Projects listed below, and one or two of the Summ
 * In what ways do find the project successful or unsuccessful?
 * What are your questions?
 
-(We'll continue to refer to the project examples in this list over the next few weeks.)
+(We'll continue to refer to the projects in this list over the next few weeks.)
 
+### After the Session: Reflection Post
 
+After we've met, post a new discussion in the [2018 Fellows Discussion Board](https://github.com/orgs/cornell-colab/teams/2018-fellows). Address any of these questions:  
 
-### Discussion Post
+* Think about the data (or sources) that will underlie your own project. What issues do you foresee you may need to address as you assemble, analyze, and present your data?
+* What are some factors that are important to the success of a digital project that you want to replicate in your own project?  
+* What do you want to understood better?  
+* What do you want to know how to do? 
+
+Consider the discussions posted by your fellow fellows, and comment on any that you'd like to. 
