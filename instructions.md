@@ -9,7 +9,7 @@ From the [list of projects](https://github.com/cornell-colab/Day-1-Introduction/
 1. Interact with the site and its tool(s) until you have a good feeling for the project’s scope, goals, and capabilities.
 2. Read any associated “About” information to get a sense of the who the project’s creators are (and how many of them there are), what tools were used in the creation, what its data sources are, and any sources of funding.
  
-##### A few questions you might want to consider:
+#### A few questions you might want to consider:
 * Who is the intended audience? Scholarly researchers, students, general public, a combination?
 * Would this project be a useful tool for research, for teaching, for both? How might it be used to generate new research questions -- or answers?
 * What scholarly decisions were made in the design of underlying dataset, the metadata, the visualization, and/or the user interface?
