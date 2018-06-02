@@ -37,7 +37,7 @@ William Easterly, Laura Freschi, & Steven Pennings
 * [Sound and Documentary in Cardiff and Miller's *Pandemonium*](http://scalar.usc.edu/works/pandemonium/index)  
 Cecilia Wichmann (The project is a digital companion to her master's thesis.)
 
-* [Performing Archive: Curits + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)
+* [Performing Archive: Curits + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)  
 Jacqueline Wernimont & Team
  
 ### Database Plus
