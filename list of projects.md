@@ -1,4 +1,4 @@
-## Large Team Projects
+## Large Projects
 
 ### Geospatial Visualization
  
@@ -86,7 +86,7 @@ Molly Reed (History)
 * [De raptu meo](http://chaumpaigne.org/)  
 Anna Waymack (Medieval Studies)
 
-* [Parthian Sources Online)[http://parthiansources.com/]  
+* [Parthian Sources Online](http://parthiansources.com/)  
 Jake Nabel (Classics)
 
 * [Historia Literararia del Registro de Sonido (A Literary History of the Phonograph)](http://scalar.usc.edu/works/literary-history-of-the-phonograph/index)  
