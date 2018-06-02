@@ -1,6 +1,6 @@
 ## Large Team Projects
 
-### Geospatial Visualization Projects
+### Geospatial Visualization
  
 * [Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative](http://revolt.axismaps.com/)  
 Vincent Brown
@@ -21,7 +21,7 @@ Brent Cebul & Team
 (This project is one of several rich projects included in University of Richmond DS Lab’s [American Panorama, an Atlas of United States History](https://dsl.richmond.edu/panorama/).)
 
 
-### Network Visualization Projects
+### Network Analysis & Visualization
  
 * [Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in European Periphery](https://mapping-the-enlightenment.org/)  
 Manolis Patinioti, Eirini Goudarouli, & Vassilis Routisis
@@ -40,7 +40,7 @@ Cecilia Wichmann (The project is a digital companion to her master's thesis.)
 * [Performing Archive: Curits + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)
 Jacqueline Wernimont & Team
  
-### Database-Plus Projects
+### Database Plus
  
 * [Photogrammar](http://photogrammar.yale.edu/) (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)
 Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
@@ -53,7 +53,7 @@ A data visualization created by data journalist Andrew Kahn, using the scholarly
 * [New York Slavery Records Index](https://nyslavery.commons.gc.cuny.edu/)  
 Ned Benton, Judy-Lynne Peters, & Team
  
-### Interactive Text Analysis Projects
+### Computational Text Analysis 
  
 * [America’s Public Bible (Bible Quotations in Newspapers Throughout the 19th century)](http://americaspublicbible.org/)  
 Lincoln Mullen
