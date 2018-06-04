@@ -47,8 +47,7 @@ Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
 
 * [Voyages: The Trans Atlantic Slave Trade Database](http://www.slavevoyages.org/)
 David Eltis, Martin Halbert, & Team  
-See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)  
-A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.
+See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)(A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.)
 
 * [New York Slavery Records Index](https://nyslavery.commons.gc.cuny.edu/)  
 Ned Benton, Judy-Lynne Peters, & Team
