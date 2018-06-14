@@ -64,7 +64,7 @@ The Bill Lane Center for the American West, Stanford University
 * [*Vogue* N-gram Search](http://bookworm.library.yale.edu/) & [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-### Computational Visual Analysis
+### Computational Image Analysis
 
 * [Library of Congress Colors](https://loc-colors.glitch.me/)  
 Laura Wrubel
