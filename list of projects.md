@@ -49,6 +49,9 @@ Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
 David Eltis, Martin Halbert, & Team  
 See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)(A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.)
 
+* [Freedom on the Move](http://freedomonthemove.org)
+Ed Baptist & Team
+
 * [New York Slavery Records Index](https://nyslavery.commons.gc.cuny.edu/)  
 Ned Benton, Judy-Lynne Peters, & Team
  
@@ -87,6 +90,9 @@ Anna Waymack (Medieval Studies)
 
 * [Parthian Sources Online](http://parthiansources.com/)  
 Jake Nabel (Classics)
+
+* [Topic Modeling the Magazin zur Erfahrungsseelenkunde](http://davidwdunham.com/projects/1/)
+David Dunham (German Studies)
 
 * [Historia Literararia del Registro de Sonido (A Literary History of the Phonograph)](http://scalar.usc.edu/works/literary-history-of-the-phonograph/index)  
 Sam Carter (Romance Studies)
