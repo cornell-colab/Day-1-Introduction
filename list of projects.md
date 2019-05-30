@@ -20,6 +20,10 @@ Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 Brent Cebul & Team  
 (This project is one of several rich projects included in University of Richmond DS Lab’s [American Panorama, an Atlas of United States History](https://dsl.richmond.edu/panorama/).)
 
+* [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) &  
+[Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
+Alex Gil, Roopika Risam, Manan Ahmed, Maira Alvarez, et.al. 
+
 
 ### Network Analysis & Visualization
  
@@ -33,6 +37,9 @@ M. Cristina Pattuelli, Matt Miller, & Team
  
 * [Greene Street: A Long History of a Short Block](http://www.greenestreet.nyc/)  
 William Easterly, Laura Freschi, & Steven Pennings 
+
+* [The Chinese Deathscape: Grave Reform in Modern China](http://chinesedeathscape.org/)
+Thomas Mullaney & Team
 
 * [Sound and Documentary in Cardiff and Miller's *Pandemonium*](http://scalar.usc.edu/works/pandemonium/index)  
 Cecilia Wichmann (The project is a digital companion to her master's thesis.)
@@ -67,6 +74,9 @@ The Bill Lane Center for the American West, Stanford University
 * [*Vogue* N-gram Search](http://bookworm.library.yale.edu/) & [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
+* [Ticha: A Digital Text Explorer for Colonial Zapotec] (https://ticha.haverford.edu/en/)
+Brook Danielle Lillehaugen & Team
+
 ### Computational Image Analysis
 
 * [Library of Congress Colors](https://loc-colors.glitch.me/)  
@@ -75,7 +85,7 @@ Laura Wrubel
 * [*Vogue* Covers in Colormetric Space](http://dh.library.yale.edu/projects/vogue/colormetricspace/) and [Averaging Covers in *Vogue*](http://dh.library.yale.edu/projects/vogue/coveraverages/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-SelfieCity and the SelfieExploratory (L. Manovich & Team at City Univeristy of New York Graduate Center)
+* SelfieCity and the SelfieExploratory (L. Manovich & Team at City Univeristy of New York Graduate Center)
 
 ## Projects by Summer Fellow Alums
 
