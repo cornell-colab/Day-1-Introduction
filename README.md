@@ -18,26 +18,26 @@ June 14: Individual Meetings. On this day, each fellow will meet with the three 
 
 #### Part II
 
-June 17: Co-working Session
-June 18:  --
-June 19:  --
-June 20: Co-working Session
-June 21: --
- 
-June 24: Project Proposal Presentations. Each fellow will present their project plan in a brief, informal 10 min. presentation to the cohort and to invited librarians.
-June 25: Workshop on Open Access and Scholarly Publishing (with Gail Steinhart, Scholarly Communication Librarian)
-June 26: --
-June 27: Co-working Session
-June 28: --
- 
-July 1: Co-working Session
-July 2: (*Meet in the lobby of Mann Library.*) Introduction to the Makerspace (with Camille Andrews, Emerging Literacies Librarian)
-July 3: Co-working Session
-July 4: Holiday. Library Closed.
-July 5: --
- 
-July 8: Co-working Session
-July 9: --
-July 10: --
-July 11: Co-working Session
-July 12: (*10am – 2:30pm*) Final Project Presentations. Each fellow will present the results of their summer project work in a public forum. Lunch will be served 12 – 1pm.
+June 17: Co-working Session  
+June 18:  --  
+June 19:  --  
+June 20: Co-working Session  
+June 21: --  
+  
+June 24: Project Proposal Presentations. Each fellow will present their project plan in a brief, informal 10 min. presentation to the cohort and to invited librarians.  
+June 25: Workshop on Open Access and Scholarly Publishing (with Gail Steinhart, Scholarly Communication Librarian)  
+June 26: --  
+June 27: Co-working Session  
+June 28: --  
+  
+July 1: Co-working Session  
+July 2: (*Meet in the lobby of Mann Library.*) Introduction to the Makerspace (with Camille Andrews, Emerging Literacies Librarian)  
+July 3: Co-working Session  
+July 4: Holiday. Library Closed.  
+July 5: --  
+  
+July 8: Co-working Session  
+July 9: --  
+July 10: --  
+July 11: Co-working Session  
+July 12: (*10am – 2:30pm*) Final Project Presentations. Each fellow will present the results of their summer project work in a public forum. Lunch will be served 12 – 1pm.  
