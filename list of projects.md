@@ -107,3 +107,13 @@ David Dunham (German Studies)
 
 * [Historia Literararia del Registro de Sonido (A Literary History of the Phonograph)](http://scalar.usc.edu/works/literary-history-of-the-phonograph/index)  
 Sam Carter (Romance Studies)
+
+## Large Projects without Web-based Front Ends
+
+* [*La Gaceta de la Habana*](https://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta)  
+Paige Morgan & Team at University of Miami Libraries (Paige is now at U. Delaware.)
+
+* [Intertext](https://github.com/YaleDHLab/intertext)  
+Peter Leonard & Team at Yale DH Lab
+
+
